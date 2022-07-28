@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruwanthi Gunathilaka
 - 👀 I’m interested in programming and software develpoment
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS
 
 <!---
 gunathilaka-dot/gunathilaka-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
